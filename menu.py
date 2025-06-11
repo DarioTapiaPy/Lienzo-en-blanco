@@ -1,3 +1,7 @@
+from random_utils.py import generar_numero_aleatorio
+from sort_utils.py import ordenar_numeros
+from average_utils.py import calcular_promedio
+
 print("Bienvenido al software de menú")
 while True:
 	opcion = input("""
