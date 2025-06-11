@@ -18,5 +18,3 @@ def generar_numero_aleatorio():
         except ValueError:
             print("El valor ingresado debe ser un número entero, reintente")
     print("Saliendo...")
-    
-generar_numero_aleatorio()
