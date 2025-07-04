@@ -56,3 +56,7 @@ Cuando hayamos hecho el commit vamos a ejecutar nuevamente *git status* si dice 
 Para subir los cambios al repositorio que está en línea y verlo debemos simplemente hacer un push, esto se hace desde la rama que queremos hacer el push, en nuestro caso no hemos creado ninguna así que subiremos main que debería ser la que tiene todo, el readme, el .gitignore, el utils que creamos y el main que es nuestra calculadora
 
 *git push*
+
+o si queremos subir una rama
+
+*git push origin nombre_rama*
